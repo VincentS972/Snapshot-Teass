@@ -8,9 +8,9 @@ function GitHubCard() {
             <Card style={{ width: "20rem"}}>
                 <Card.Img variant="info" src={MyPicture} />
                 <Card.Body>
-                    <Card.Title>My Profil Picture</Card.Title>
+                    <Card.Title>VincentS972</Card.Title>
                     <Card.Text>
-                        VincentS972. This is my GitHub username.
+                         This is my GitHub username and picture.
                     </Card.Text>
                 </Card.Body>
             </Card>

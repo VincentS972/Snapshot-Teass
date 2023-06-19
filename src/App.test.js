@@ -4,6 +4,6 @@ import App from './App';
 
 test ('renders text MyPicture', () => {
   render(<App />)
-  const nameElement = screen.getByText(/My Profil Picture/i)
+  const nameElement = screen.getByText(/VincentS972/i)
   expect(nameElement).toBeInTheDocument()
 });
